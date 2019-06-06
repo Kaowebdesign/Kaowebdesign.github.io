@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>business on Джерело</title>
-    <link>http://example.org/categories/business/</link>
+    <link>/categories/business/</link>
     <description>Recent content in business on Джерело</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 05 Jun 2019 14:03:13 +0300</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/business/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/business/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Проволока</title>
-      <link>http://example.org/business/wire/</link>
+      <link>/business/wire/</link>
       <pubDate>Wed, 05 Jun 2019 14:03:13 +0300</pubDate>
       
-      <guid>http://example.org/business/wire/</guid>
+      <guid>/business/wire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Оборудование сервисные услуги</title>
-      <link>http://example.org/business/serv/</link>
+      <link>/business/serv/</link>
       <pubDate>Wed, 05 Jun 2019 14:02:57 +0300</pubDate>
       
-      <guid>http://example.org/business/serv/</guid>
+      <guid>/business/serv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Оборудование б.у Европа</title>
-      <link>http://example.org/business/europe/</link>
+      <link>/business/europe/</link>
       <pubDate>Wed, 05 Jun 2019 14:02:43 +0300</pubDate>
       
-      <guid>http://example.org/business/europe/</guid>
+      <guid>/business/europe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Оборудование производство</title>
-      <link>http://example.org/business/production/</link>
+      <link>/business/production/</link>
       <pubDate>Wed, 05 Jun 2019 14:02:24 +0300</pubDate>
       
-      <guid>http://example.org/business/production/</guid>
+      <guid>/business/production/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Фасовка хорека</title>
-      <link>http://example.org/business/packing/</link>
+      <link>/business/packing/</link>
       <pubDate>Wed, 05 Jun 2019 14:01:45 +0300</pubDate>
       
-      <guid>http://example.org/business/packing/</guid>
+      <guid>/business/packing/</guid>
       <description></description>
     </item>
     

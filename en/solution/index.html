@@ -15,6 +15,7 @@
     </title>
     
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 </head>
     <body>
@@ -23,7 +24,7 @@
                 <header class="header">
     <div class="header-wrap">
         <a href="/" class="logo">
-            <img src="http://example.org//images/svg/logo-gerelo.svg" alt="Джерело" class="logo__img">
+            <img src="/images/svg/logo-gerelo.svg" alt="Джерело" class="logo__img">
         </a>
         <div class="contacts">
             <div class="headerContact headerContact_right">
@@ -344,7 +345,7 @@
         
     
     <li  class="bread__item" >
-        <a href="http://example.org/en/">
+        <a href="/en/">
             
                 Главная
             
@@ -354,7 +355,7 @@
 
     
     <li  class="bread__item bread_active">
-        <a href="http://example.org/en/solution/">
+        <a href="/en/solution/">
             
                 Solutions 
             
@@ -372,7 +373,7 @@
 </div>
 
                     
-                    <div class="form-wrap" id="contactus">
+                    <div class="form-wrap wow animate zoomIn" id="contactus" data-wow-delay="1s">
     <h2 class="form__title">Our managers are ready to answer any of your questions.</h2>
     <form action="https://api.zina.com.ua/send_form" method="post" class="contact-form ajax form">
         <div class="form__left">
@@ -730,15 +731,17 @@
     </div>
     <div class="footerBottom">
         <p class="footer__copy footerBottom__text"> 2019 &copy; <a href="/" class="footerBottom__link footerBottom_bold">gerelo.com.ua</a> &nbsp;All right reserved</p>
-        <p class="footerBottom__text"><img src="http://example.org//images/zina.png" alt="Zina design">&nbsp;Створення сайту: &copy; 2019 &nbsp;<a href="/" class="footerBottom__link"> Студія «Зіна дизайн»</a>, Дніпро</p>
+        <p class="footerBottom__text"><img src="/images/zina.png" alt="Zina design">&nbsp;Створення сайту: &copy; 2019 &nbsp;<a href="/" class="footerBottom__link"> Студія «Зіна дизайн»</a>, Дніпро</p>
     </div>
 </footer>
         </div>
          <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
  <script src="/js/main.js"></script>
  <script src="/js/jquery.maskedinput.min.js"></script>
  <script src="/js/common.js"></script>
  <script src="/js/utils.js"></script>
  <script src="/js/scrolling.js"></script>
+ <script>new WOW({mobile:false}).init();</script>
     </body>
 </html>

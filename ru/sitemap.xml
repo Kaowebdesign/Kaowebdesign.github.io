@@ -3,367 +3,367 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-06-05T14:03:13+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/categories/"
+                href="/ua/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/categories/business/</loc>
+    <loc>/categories/business/</loc>
     <lastmod>2019-06-05T14:03:13+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/business/</loc>
+    <loc>/business/</loc>
     <lastmod>2019-06-05T14:03:13+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/business/"
+                href="/ua/business/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/business/"
+                href="/en/business/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/business/"
+                href="/business/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2019-06-05T14:03:13+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/"
+                href="/ua/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/business/wire/</loc>
+    <loc>/business/wire/</loc>
     <lastmod>2019-06-05T14:03:13+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/business/serv/</loc>
+    <loc>/business/serv/</loc>
     <lastmod>2019-06-05T14:02:57+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/business/europe/</loc>
+    <loc>/business/europe/</loc>
     <lastmod>2019-06-05T14:02:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/business/production/</loc>
+    <loc>/business/production/</loc>
     <lastmod>2019-06-05T14:02:24+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/business/packing/</loc>
+    <loc>/business/packing/</loc>
     <lastmod>2019-06-05T14:01:45+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/service/</loc>
+    <loc>/categories/service/</loc>
     <lastmod>2019-06-05T10:39:31+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/service/</loc>
+    <loc>/service/</loc>
     <lastmod>2019-06-05T10:39:31+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/service/uslugi/</loc>
+    <loc>/service/uslugi/</loc>
     <lastmod>2019-06-05T10:39:31+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/solution/</loc>
+    <loc>/categories/solution/</loc>
     <lastmod>2019-06-05T09:46:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/solution/</loc>
+    <loc>/solution/</loc>
     <lastmod>2019-06-05T09:46:25+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/solution/"
+                href="/ua/solution/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/solution/"
+                href="/en/solution/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/solution/"
+                href="/solution/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/solution/chocolate/</loc>
+    <loc>/solution/chocolate/</loc>
     <lastmod>2019-06-05T09:46:25+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/meal/</loc>
+    <loc>/solution/meal/</loc>
     <lastmod>2019-06-05T09:40:31+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/cosmetics/</loc>
+    <loc>/solution/cosmetics/</loc>
     <lastmod>2019-06-05T09:40:18+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/household/</loc>
+    <loc>/solution/household/</loc>
     <lastmod>2019-06-05T09:39:52+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/autotov/</loc>
+    <loc>/solution/autotov/</loc>
     <lastmod>2019-06-05T09:39:31+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/chemistry/</loc>
+    <loc>/solution/chemistry/</loc>
     <lastmod>2019-06-05T09:39:17+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/seeds/</loc>
+    <loc>/solution/seeds/</loc>
     <lastmod>2019-06-05T09:38:48+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/juice/</loc>
+    <loc>/solution/juice/</loc>
     <lastmod>2019-06-05T09:38:27+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/sauce/</loc>
+    <loc>/solution/sauce/</loc>
     <lastmod>2019-06-05T09:38:11+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/pastry/</loc>
+    <loc>/solution/pastry/</loc>
     <lastmod>2019-06-05T09:37:47+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/spice/</loc>
+    <loc>/solution/spice/</loc>
     <lastmod>2019-06-05T09:37:16+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/snack/</loc>
+    <loc>/solution/snack/</loc>
     <lastmod>2019-06-05T09:36:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/cereals/</loc>
+    <loc>/solution/cereals/</loc>
     <lastmod>2019-06-05T09:36:20+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/sportpit/</loc>
+    <loc>/solution/sportpit/</loc>
     <lastmod>2019-06-05T09:36:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/milk/</loc>
+    <loc>/solution/milk/</loc>
     <lastmod>2019-06-05T09:35:49+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/tea/</loc>
+    <loc>/solution/tea/</loc>
     <lastmod>2019-06-05T09:35:31+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/solution/coffe/</loc>
+    <loc>/solution/coffe/</loc>
     <lastmod>2019-06-05T09:35:13+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/prods/</loc>
+    <loc>/categories/prods/</loc>
     <lastmod>2019-06-05T09:16:32+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/prods/"
+                href="/en/categories/prods/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/categories/prods/"
+                href="/categories/prods/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/prods/</loc>
+    <loc>/prods/</loc>
     <lastmod>2019-06-05T09:16:32+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/prods/"
+                href="/ua/prods/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/prods/"
+                href="/en/prods/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/prods/"
+                href="/prods/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/prods/rectorpack/</loc>
+    <loc>/prods/rectorpack/</loc>
     <lastmod>2019-06-05T09:16:32+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/prods/kraftpack/</loc>
+    <loc>/prods/kraftpack/</loc>
     <lastmod>2019-06-05T09:16:14+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/prods/flat/</loc>
+    <loc>/prods/flat/</loc>
     <lastmod>2019-06-05T09:15:34+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/prods/cushionpack/</loc>
+    <loc>/prods/cushionpack/</loc>
     <lastmod>2019-06-05T09:14:42+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/prods/centralpack/</loc>
+    <loc>/prods/centralpack/</loc>
     <lastmod>2019-06-04T18:16:39+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/prods/stabilopack/</loc>
+    <loc>/prods/stabilopack/</loc>
     <lastmod>2019-06-03T16:38:27+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/prods/stabilopack/"
+                href="/en/prods/stabilopack/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/prods/stabilopack/"
+                href="/prods/stabilopack/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/prods/flatpack/</loc>
+    <loc>/prods/flatpack/</loc>
     <lastmod>2019-06-03T16:24:10+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/prods/filterpack/</loc>
+    <loc>/prods/filterpack/</loc>
     <lastmod>2019-06-03T14:14:02+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/prods/stickpack/</loc>
+    <loc>/prods/stickpack/</loc>
     <lastmod>2019-05-30T18:04:13+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/prods/packs/</loc>
+    <loc>/prods/packs/</loc>
     <lastmod>2019-05-30T17:48:56+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/prods/doypack/</loc>
+    <loc>/prods/doypack/</loc>
     <lastmod>2019-05-30T17:48:50+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/tags/"
+                href="/ua/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/tags/"
+                href="/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/info/</loc>
+    <loc>/info/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/company/history/</loc>
+    <loc>/company/history/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/company/</loc>
+    <loc>/company/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/company/partner/</loc>
+    <loc>/company/partner/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/prods/termopack/</loc>
+    <loc>/prods/termopack/</loc>
   </url>
   
 </urlset>

@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Решения on Джерело</title>
-    <link>http://example.org/solution/</link>
+    <link>/solution/</link>
     <description>Recent content in Решения on Джерело</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 05 Jun 2019 09:46:25 +0300</lastBuildDate>
     
-	<atom:link href="http://example.org/solution/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/solution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>сувенирный шоколад с логотипом</title>
-      <link>http://example.org/solution/chocolate/</link>
+      <link>/solution/chocolate/</link>
       <pubDate>Wed, 05 Jun 2019 09:46:25 +0300</pubDate>
       
-      <guid>http://example.org/solution/chocolate/</guid>
+      <guid>/solution/chocolate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Мясо, рыба, сыр</title>
-      <link>http://example.org/solution/meal/</link>
+      <link>/solution/meal/</link>
       <pubDate>Wed, 05 Jun 2019 09:40:31 +0300</pubDate>
       
-      <guid>http://example.org/solution/meal/</guid>
+      <guid>/solution/meal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Косметика</title>
-      <link>http://example.org/solution/cosmetics/</link>
+      <link>/solution/cosmetics/</link>
       <pubDate>Wed, 05 Jun 2019 09:40:18 +0300</pubDate>
       
-      <guid>http://example.org/solution/cosmetics/</guid>
+      <guid>/solution/cosmetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Бытовая химия</title>
-      <link>http://example.org/solution/household/</link>
+      <link>/solution/household/</link>
       <pubDate>Wed, 05 Jun 2019 09:39:52 +0300</pubDate>
       
-      <guid>http://example.org/solution/household/</guid>
+      <guid>/solution/household/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Автомобильные товары</title>
-      <link>http://example.org/solution/autotov/</link>
+      <link>/solution/autotov/</link>
       <pubDate>Wed, 05 Jun 2019 09:39:31 +0300</pubDate>
       
-      <guid>http://example.org/solution/autotov/</guid>
+      <guid>/solution/autotov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Сельскохозяйственная химия</title>
-      <link>http://example.org/solution/chemistry/</link>
+      <link>/solution/chemistry/</link>
       <pubDate>Wed, 05 Jun 2019 09:39:17 +0300</pubDate>
       
-      <guid>http://example.org/solution/chemistry/</guid>
+      <guid>/solution/chemistry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Семена</title>
-      <link>http://example.org/solution/seeds/</link>
+      <link>/solution/seeds/</link>
       <pubDate>Wed, 05 Jun 2019 09:38:48 +0300</pubDate>
       
-      <guid>http://example.org/solution/seeds/</guid>
+      <guid>/solution/seeds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Соки</title>
-      <link>http://example.org/solution/juice/</link>
+      <link>/solution/juice/</link>
       <pubDate>Wed, 05 Jun 2019 09:38:27 +0300</pubDate>
       
-      <guid>http://example.org/solution/juice/</guid>
+      <guid>/solution/juice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Майонез, кетчуп, соус</title>
-      <link>http://example.org/solution/sauce/</link>
+      <link>/solution/sauce/</link>
       <pubDate>Wed, 05 Jun 2019 09:38:11 +0300</pubDate>
       
-      <guid>http://example.org/solution/sauce/</guid>
+      <guid>/solution/sauce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Кондитерские изделия</title>
-      <link>http://example.org/solution/pastry/</link>
+      <link>/solution/pastry/</link>
       <pubDate>Wed, 05 Jun 2019 09:37:47 +0300</pubDate>
       
-      <guid>http://example.org/solution/pastry/</guid>
+      <guid>/solution/pastry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Специи</title>
-      <link>http://example.org/solution/spice/</link>
+      <link>/solution/spice/</link>
       <pubDate>Wed, 05 Jun 2019 09:37:16 +0300</pubDate>
       
-      <guid>http://example.org/solution/spice/</guid>
+      <guid>/solution/spice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Снеки</title>
-      <link>http://example.org/solution/snack/</link>
+      <link>/solution/snack/</link>
       <pubDate>Wed, 05 Jun 2019 09:36:53 +0300</pubDate>
       
-      <guid>http://example.org/solution/snack/</guid>
+      <guid>/solution/snack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Крупы</title>
-      <link>http://example.org/solution/cereals/</link>
+      <link>/solution/cereals/</link>
       <pubDate>Wed, 05 Jun 2019 09:36:20 +0300</pubDate>
       
-      <guid>http://example.org/solution/cereals/</guid>
+      <guid>/solution/cereals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Спортивное питание</title>
-      <link>http://example.org/solution/sportpit/</link>
+      <link>/solution/sportpit/</link>
       <pubDate>Wed, 05 Jun 2019 09:36:00 +0300</pubDate>
       
-      <guid>http://example.org/solution/sportpit/</guid>
+      <guid>/solution/sportpit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Сухое молоко</title>
-      <link>http://example.org/solution/milk/</link>
+      <link>/solution/milk/</link>
       <pubDate>Wed, 05 Jun 2019 09:35:49 +0300</pubDate>
       
-      <guid>http://example.org/solution/milk/</guid>
+      <guid>/solution/milk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Чай</title>
-      <link>http://example.org/solution/tea/</link>
+      <link>/solution/tea/</link>
       <pubDate>Wed, 05 Jun 2019 09:35:31 +0300</pubDate>
       
-      <guid>http://example.org/solution/tea/</guid>
+      <guid>/solution/tea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Кофе, какао и 3 в 1</title>
-      <link>http://example.org/solution/coffe/</link>
+      <link>/solution/coffe/</link>
       <pubDate>Wed, 05 Jun 2019 09:35:13 +0300</pubDate>
       
-      <guid>http://example.org/solution/coffe/</guid>
+      <guid>/solution/coffe/</guid>
       <description></description>
     </item>
     

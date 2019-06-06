@@ -3,157 +3,157 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <lastmod>2019-06-05T11:42:32+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/categories/"
+                href="/ua/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2019-06-05T11:42:32+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/"
+                href="/ua/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/prods/</loc>
+    <loc>/en/prods/</loc>
     <lastmod>2019-06-05T11:42:32+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/prods/"
+                href="/ua/prods/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/prods/"
+                href="/prods/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/prods/"
+                href="/en/prods/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/prods/stabilopack/</loc>
+    <loc>/en/prods/stabilopack/</loc>
     <lastmod>2019-06-05T11:42:32+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/prods/stabilopack/"
+                href="/prods/stabilopack/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/prods/stabilopack/"
+                href="/en/prods/stabilopack/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/prods/</loc>
+    <loc>/en/categories/prods/</loc>
     <lastmod>2019-06-05T11:42:32+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/categories/prods/"
+                href="/categories/prods/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/prods/"
+                href="/en/categories/prods/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/business/_idnex/</loc>
+    <loc>/en/business/_idnex/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/en/business/</loc>
+    <loc>/en/business/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/business/"
+                href="/ua/business/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/business/"
+                href="/business/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/business/"
+                href="/en/business/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/solution/</loc>
+    <loc>/en/solution/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/solution/"
+                href="/ua/solution/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/solution/"
+                href="/solution/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/solution/"
+                href="/en/solution/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://example.org/ua/tags/"
+                href="/ua/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="/en/tags/"
                 />
   </url>
   
