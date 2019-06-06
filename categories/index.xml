@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Джерело</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Джерело</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 05 Jun 2019 14:03:13 +0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>business</title>
+      <link>http://example.org/categories/business/</link>
+      <pubDate>Wed, 05 Jun 2019 14:03:13 +0300</pubDate>
+      
+      <guid>http://example.org/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service</title>
+      <link>http://example.org/categories/service/</link>
+      <pubDate>Wed, 05 Jun 2019 10:39:31 +0300</pubDate>
+      
+      <guid>http://example.org/categories/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solution</title>
+      <link>http://example.org/categories/solution/</link>
+      <pubDate>Wed, 05 Jun 2019 09:46:25 +0300</pubDate>
+      
+      <guid>http://example.org/categories/solution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prods</title>
+      <link>http://example.org/categories/prods/</link>
+      <pubDate>Wed, 05 Jun 2019 09:16:32 +0300</pubDate>
+      
+      <guid>http://example.org/categories/prods/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2019-06-05T14:03:13+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="http://example.org/ua/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/business/</loc>
+    <lastmod>2019-06-05T14:03:13+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/business/</loc>
+    <lastmod>2019-06-05T14:03:13+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="http://example.org/ua/business/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/business/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/business/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-06-05T14:03:13+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="http://example.org/ua/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/business/wire/</loc>
+    <lastmod>2019-06-05T14:03:13+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/business/serv/</loc>
+    <lastmod>2019-06-05T14:02:57+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/business/europe/</loc>
+    <lastmod>2019-06-05T14:02:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/business/production/</loc>
+    <lastmod>2019-06-05T14:02:24+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/business/packing/</loc>
+    <lastmod>2019-06-05T14:01:45+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/service/</loc>
+    <lastmod>2019-06-05T10:39:31+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/service/</loc>
+    <lastmod>2019-06-05T10:39:31+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/service/uslugi/</loc>
+    <lastmod>2019-06-05T10:39:31+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/solution/</loc>
+    <lastmod>2019-06-05T09:46:25+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/</loc>
+    <lastmod>2019-06-05T09:46:25+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="http://example.org/ua/solution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/solution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/solution/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/chocolate/</loc>
+    <lastmod>2019-06-05T09:46:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/meal/</loc>
+    <lastmod>2019-06-05T09:40:31+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/cosmetics/</loc>
+    <lastmod>2019-06-05T09:40:18+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/household/</loc>
+    <lastmod>2019-06-05T09:39:52+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/autotov/</loc>
+    <lastmod>2019-06-05T09:39:31+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/chemistry/</loc>
+    <lastmod>2019-06-05T09:39:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/seeds/</loc>
+    <lastmod>2019-06-05T09:38:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/juice/</loc>
+    <lastmod>2019-06-05T09:38:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/sauce/</loc>
+    <lastmod>2019-06-05T09:38:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/pastry/</loc>
+    <lastmod>2019-06-05T09:37:47+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/spice/</loc>
+    <lastmod>2019-06-05T09:37:16+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/snack/</loc>
+    <lastmod>2019-06-05T09:36:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/cereals/</loc>
+    <lastmod>2019-06-05T09:36:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/sportpit/</loc>
+    <lastmod>2019-06-05T09:36:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/milk/</loc>
+    <lastmod>2019-06-05T09:35:49+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/tea/</loc>
+    <lastmod>2019-06-05T09:35:31+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/solution/coffe/</loc>
+    <lastmod>2019-06-05T09:35:13+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/prods/</loc>
+    <lastmod>2019-06-05T09:16:32+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/categories/prods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/categories/prods/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/</loc>
+    <lastmod>2019-06-05T09:16:32+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="http://example.org/ua/prods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/prods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/prods/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/rectorpack/</loc>
+    <lastmod>2019-06-05T09:16:32+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/kraftpack/</loc>
+    <lastmod>2019-06-05T09:16:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/flat/</loc>
+    <lastmod>2019-06-05T09:15:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/cushionpack/</loc>
+    <lastmod>2019-06-05T09:14:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/centralpack/</loc>
+    <lastmod>2019-06-04T18:16:39+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/stabilopack/</loc>
+    <lastmod>2019-06-03T16:38:27+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/prods/stabilopack/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/prods/stabilopack/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/flatpack/</loc>
+    <lastmod>2019-06-03T16:24:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/filterpack/</loc>
+    <lastmod>2019-06-03T14:14:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/stickpack/</loc>
+    <lastmod>2019-05-30T18:04:13+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/packs/</loc>
+    <lastmod>2019-05-30T17:48:56+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/doypack/</loc>
+    <lastmod>2019-05-30T17:48:50+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="http://example.org/ua/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://example.org/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/info/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/company/history/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/company/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/company/partner/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/prods/termopack/</loc>
+  </url>
+  
+</urlset>
